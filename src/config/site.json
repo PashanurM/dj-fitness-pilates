@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "DJ Fitness Pilates",
+    "shortName": "DJ",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#22160e",
+    "bgElevated": "#2e2017",
+    "surface": "#38281f",
+    "surface2": "#49352a",
+    "text": "#f2f4f3",
+    "muted": "#ad9a91",
+    "accent": "#f97820",
+    "accent2": "#de870c",
+    "logoBg": "#999999"
+  },
+  "layout": {
+    "headerLogoBg": false,
+    "footerLogoBg": false
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": true,
+    "halls": false,
+    "trainers": true,
+    "services": true,
+    "tools": false,
+    "equipment": true,
+    "pricing": true,
+    "shop": true,
+    "blog": true,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
